@@ -1,1 +1,1 @@
-# EDA-project
+cars-eda-linear-regression
