@@ -1,6 +1,6 @@
 # Cars EDA + Linear Regression Project
 
-**Minor Project 2** | Udeep Karmakar | Batch: AI_September_B
+**Minor Project** | Udeep Karmakar
 
 Exploratory Data Analysis and price prediction on used car listings from the CarDekho dataset.
 
